@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Profile/static/css/main.cdbfcb25.chunk.css",
-    "main.js": "/Profile/static/js/main.c8c78c9d.chunk.js",
-    "main.js.map": "/Profile/static/js/main.c8c78c9d.chunk.js.map",
-    "runtime-main.js": "/Profile/static/js/runtime-main.5c4dc259.js",
-    "runtime-main.js.map": "/Profile/static/js/runtime-main.5c4dc259.js.map",
-    "static/js/2.48011362.chunk.js": "/Profile/static/js/2.48011362.chunk.js",
-    "static/js/2.48011362.chunk.js.map": "/Profile/static/js/2.48011362.chunk.js.map",
-    "index.html": "/Profile/index.html",
-    "static/css/main.cdbfcb25.chunk.css.map": "/Profile/static/css/main.cdbfcb25.chunk.css.map",
-    "static/js/2.48011362.chunk.js.LICENSE.txt": "/Profile/static/js/2.48011362.chunk.js.LICENSE.txt"
+    "main.css": "/Simple-Portfolio-in-React/static/css/main.59958b57.chunk.css",
+    "main.js": "/Simple-Portfolio-in-React/static/js/main.96c24e7a.chunk.js",
+    "main.js.map": "/Simple-Portfolio-in-React/static/js/main.96c24e7a.chunk.js.map",
+    "runtime-main.js": "/Simple-Portfolio-in-React/static/js/runtime-main.21b5e8bc.js",
+    "runtime-main.js.map": "/Simple-Portfolio-in-React/static/js/runtime-main.21b5e8bc.js.map",
+    "static/js/2.d8a7f0a9.chunk.js": "/Simple-Portfolio-in-React/static/js/2.d8a7f0a9.chunk.js",
+    "static/js/2.d8a7f0a9.chunk.js.map": "/Simple-Portfolio-in-React/static/js/2.d8a7f0a9.chunk.js.map",
+    "index.html": "/Simple-Portfolio-in-React/index.html",
+    "static/css/main.59958b57.chunk.css.map": "/Simple-Portfolio-in-React/static/css/main.59958b57.chunk.css.map",
+    "static/js/2.d8a7f0a9.chunk.js.LICENSE.txt": "/Simple-Portfolio-in-React/static/js/2.d8a7f0a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c4dc259.js",
-    "static/js/2.48011362.chunk.js",
-    "static/css/main.cdbfcb25.chunk.css",
-    "static/js/main.c8c78c9d.chunk.js"
+    "static/js/runtime-main.21b5e8bc.js",
+    "static/js/2.d8a7f0a9.chunk.js",
+    "static/css/main.59958b57.chunk.css",
+    "static/js/main.96c24e7a.chunk.js"
   ]
 }
