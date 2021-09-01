@@ -1,3 +1,41 @@
-.work {
-    background-color:lightgray;
+.works {
+    text-align: center;
+    padding: 70px 0px;
+   h2 {
+       font-size: 50px;
+       
+   }
+    .work-container {
+        width: 1200px;
+        margin: 100px auto;
+        position: relative;
+        display: flex;
+        list-style: none;
+        padding: 0;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 20px;
+        li {
+            display: flex;
+            flex-direction: column;
+            flex-basis: calc(25% - 20px);
+            text-align: left;
+            h3 {
+                font-size: 18px;
+                font-weight: 600;
+            }
+            .imsgeCont {
+                width: 100%;
+                margin: 20px 0px;
+                img {
+                    width: 100%;
+                }
+
+            }
+            p{
+                font-size: 13px;
+            }
+        }
+    }
+
 }

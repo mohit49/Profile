@@ -1,3 +1,39 @@
 .intro {
-    background-color:lightcoral;
+   
+    display: flex;
+    flex-direction: row;
+    .left,
+    .right {
+        flex: 0.5;
+        justify-content:center;
+       align-items: center;
+       display: flex;
+    }
+    .left {
+        background: yellow;
+    }
+    .right {
+        background: yellow;
+        flex-direction: column;
+        text-align: left;
+        align-items: flex-start;
+        h1{
+            font-size: 80px;
+            text-align: left;
+        }
+        h2 {
+            font-size: 50px;
+            text-align: left;
+        }
+    }
+    .image-container {
+        overflow: hidden;
+        width: 700px;
+        height: 700px;
+        border-radius: 100%;
+        overflow: hidden;
+        img {
+            width: 90%;
+        }
+    }
 }
